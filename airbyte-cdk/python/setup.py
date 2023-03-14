@@ -54,7 +54,7 @@ setup(
         "genson==1.2.2",
         "pydantic~=1.9.2",
         "python-dateutil",
-        "PyYAML~=5.4",
+        "PyYAML>=6",
         "requests",
         "requests_cache",
         "Deprecated~=1.2",
